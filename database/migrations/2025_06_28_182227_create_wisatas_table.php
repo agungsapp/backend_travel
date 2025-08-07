@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('nama');
             $table->foreignId('kategori_id')->constrained('kategoris');
-            $table->string('image');
+            $table->string('image')->default('wisata/default.png');
             $table->text('deskripsi');
             $table->text('alamat');
             $table->json('kordinat');

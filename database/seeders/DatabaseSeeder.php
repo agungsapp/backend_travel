@@ -22,6 +22,9 @@ class DatabaseSeeder extends Seeder
             'password' => Hash::make('admin123'),
         ]);
 
-        $this->call(KategoriSeeder::class);
+        $this->call([
+            KategoriSeeder::class,
+            WisataSeeder::class
+        ]);
     }
 }

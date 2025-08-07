@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Kategori extends Model
 {
-    protected $fillable = ['nama'];
+    protected $fillable = ['nama', 'kategori_image'];
 }
