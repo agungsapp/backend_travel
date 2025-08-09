@@ -24,4 +24,5 @@ Route::middleware('auth:sanctum')->group(function () {
 // Route untuk Kategori dan Wisata
 Route::get('/kategori', [WisataController::class, 'getKategori']);
 Route::get('/wisata', [WisataController::class, 'getWisata']);
+Route::get('/top-wisata', [WisataController::class, 'getTopWisata']);
 Route::get('/kategori/{id}/wisata', [WisataController::class, 'getWisataByKategori']);

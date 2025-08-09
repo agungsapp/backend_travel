@@ -31,7 +31,7 @@ class WisataResource extends Resource
                     ->required(),
                 Forms\Components\FileUpload::make('image')
                     ->image()
-                    ->directory('wisata')   
+                    ->directory('wisata')
                     ->required(),
                 Forms\Components\Textarea::make('deskripsi')
                     ->required()
@@ -81,7 +81,9 @@ class WisataResource extends Resource
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
-                //
+                Tables\Filters\SelectFilter::make('kategori_id')
+                    ->label('Kategori')
+                    ->relationship('kategori', 'nama'),
             ])
             ->actions([
                 Tables\Actions\ViewAction::make(),

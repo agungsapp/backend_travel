@@ -139,6 +139,24 @@ class WisataController extends Controller
         }
     }
 
+    public function getTopWisata()
+    {
+        $wisata = Wisata::with('kategori')
+            ->orderBy('created_at', 'desc')
+            ->take(3)
+            ->get();
+
+        $wisata->map(function ($w) {
+            $w->image = url(Storage::url($w->image)); // Mengubah path image menjadi URL yang dapat diakses
+            return $w;
+        });
+
+        return response()->json([
+            'message' => 'Berhasil mengambil data wisata teratas!',
+            'wisata' => $wisata,
+        ], 200);
+    }
+
     public function getWisata()
     {
         $wisata = Wisata::with('kategori')->get();

@@ -1,0 +1,381 @@
+Nama Lokasi,Latitude,Longitude,Alamat,Deskripsi,Kategori,Kategori_ID,Confidence_Score,Manual_Review
+Kampung Kecil Lampung,-5.4287682,105.2755746,"Jl. Gatot Subroto No.40, Pahoman, Engal, Kota Bandar Lampung, Lampung 35213 ",,budaya,2,1.0,False
+Nasi Uduk Toha Kartini,-5.4117801,105.2562781,"Jl. Kartini No.105, Tj. Karang, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35127 ",,budaya,2,1.0,False
+RM. Mbok Wito Way Halim,-5.3866609,105.2814758,"Jl. Arif Rahman Hakim No.16, Way Halim Permai, Kec. Way Halim, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,True
+Alas Cobek - Restoran Keluarga & Nasi Kotak,-5.4257636,105.2513562,"Jl. Wolter Monginsidi No.67, Pengajaran, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung 35212 ",,kuliner,4,1.0,False
+EWOK KULINER LAMPUNG Rating Tertinggi,-5.3988061,105.2073356,"Jl. Teuku cik ditiro, Jl. Cikditiro Jl. Perum Wismamas No.11 blok G2, Kota Bandar Lampung, Lampung 35158 ",,kuliner,4,1.0,False
+Skaye Lampung Cafe and Resto,-5.4122384,105.2636028,"Jl. Bukit Randu, Kb. Jeruk, Kec. Tanjungkarang Timur, Kota Bandar Lampung, Lampung 35121 ",,kuliner,4,1.0,False
+Waroeng Diggers,-5.4333834,105.2746925,"Komplek Besi Baja, Jl. Way Sungkai, Pahoman, Engal, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,True
+Rumah Makan New LG Pahoman,-5.4268278,105.2677761,"Jl. Way Sekampung No.1, Rw. Laut, Kec. Tanjungkarang Timur, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,False
+Kuliner Jogja La Rise,-5.3946942,105.2815425,"Jl. Arif Rahman Hakim No.83, Jagabaya III, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,False
+Cikwo Kuliner Khas Lampung,-5.3736154,105.2738756,"Kimaja Icon), samping Indomaret, 50m sebelum fly over, Jl. Ki Maja, Sepang Jaya, Labuhan Ratu, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,False
+Pindang Meranjat Riu Pramuka,-5.3755012,105.2227445,"J6FF+Q3X, Jl. Pramuka, Rajabasa, Kec. Rajabasa, Kota Bandar Lampung, Lampung 35151 ",,kuliner,4,1.0,True
+Pondok Indah Makanan Khas Lampung,-5.4262143,105.2705541,"H7FC+G67, Jl. Ir. H. Juanda, Pahoman, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung 35228 ",,kuliner,4,1.0,False
+RM Saung Desa,-5.4372434,105.2756306,"Jl. KH. Ahmad Dahlan No.97, Kupang Raya, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung 35226 ",,kuliner,4,1.0,True
+Randu Resto Lampung,-5.4121327,105.2638397,"2a, Jl. Kamboja No.1, Kb. Jeruk, Kec. Tanjungkarang Timur, Kota Bandar Lampung, Lampung 35125 ",,kuliner,4,1.0,True
+CITY KULINER,-5.4169218,105.2856346,"Jl. Ridwan Rais No.9, Kedamaian, Kec. Kedamaian, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,False
+Bakso Son Haji Sony 1,-5.4234006,105.2513521,"Jl. Wolter Monginsidi No.42 A, Durian Payung, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35214 ",,kuliner,4,1.0,False
+Ikan Bakar Jingkrak,-5.3962969,105.2810989,"Jl. Arif Rahman Hakim No.61, Jagabaya III, Kec. Way Halim, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,True
+Sate Luwes Way Halim,-5.3859035,105.269251,"Jl. Ki Maja No.39, Kedaton, Kec. Way Halim, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,True
+Kepiting Nyablak,-5.3842544,105.2526975,"Kepiting nyablak, Labuhan Ratu, Kec. Kedaton, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,True
+Sambel Alu Sultan Agung,-5.3800572,105.2645673,"Jl. Sultan Agung No.32, Sepang Jaya, Kec. Kedaton, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,True
+Kampoeng Bamboe Restoran dan Homestay,-5.3839998,105.2783111,"Jalan Griya Utama No. 57, Way Halim Permai, Way Halim, Sukarame, Way Halim Permai, Kec. Way Halim, Kota Bandar Lampung, Lampung 35135 ",,kuliner,4,1.0,False
+Restoran Begadang 2,-5.4230037,105.2585154,"Jl. Diponegoro No.164, Enggal, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,False
+Sambel Alu Pramuka,-5.368644,105.2278232,"Jl. Pramuka No.17, Rajabasa, Kec. Rajabasa, Kota Bandar Lampung, Lampung 35142 ",,kuliner,4,1.0,True
+Bumbu Ireng Yusan,-5.3816618,105.2747053,"Jl. Sultan Agung No.17, Way Halim Permai, Kec. Sukarame, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,True
+RM AKA Express,-5.4183199,105.258182,"Jl. Raden Intan No.100C, Pelita, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,True
+Mie Ayam Koga,-5.3929701,105.2621951,"Jl. Teuku Umar No.48, Surabaya, Kec. Kedaton, Kota Bandar Lampung, Lampung 35112 ",,kuliner,4,1.0,True
+Umah Bone Resto,-5.4321495,105.274857,"Jl. Way Ngison No.3, Pahoman, Engal, Kota Bandar Lampung, Lampung 35226 ",,kuliner,4,1.0,True
+Sambal Seruit Buk Lin Pahoman,-5.4262608,105.2704874,"Jl. Ir. H. Juanda No.8, Pahoman, Engal, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,True
+RM Budi Rahayu (Rawon Khas Malang),-5.4248411,105.2512125,"H7G2+3F8, Durian Payung, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35214 ",,kuliner,4,1.0,False
+Zozo Garden | Cafe Lampung,-5.3944931,105.2815603,"Jl. Arif Rahman Hakim No.49, Jagabaya III, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,False
+Omah Jowo Bandar Lampung,-5.3869734,105.2243882,"Jl. Inpres II, Langkapura, Kec. Kemiling, Kota Bandar Lampung, Lampung 35151 ",,kuliner,4,1.0,True
+Shabu Kitchen,-5.3817916,105.2596192,"Boemi Kedaton Mall, Jl. Teuku Umar No.6, Kedaton, Bandar Lampung City, Lampung 35132 ",,kuliner,4,1.0,False
+Taman Santap Rumah kayu,-5.3935947,105.2814296,"Jl. Arif Rahman Hakim No.45, Jagabaya III, Kec. Way Halim, Kota Bandar Lampung, Lampung 35122 ",,alam,1,1.0,False
+Mie Khodon,-5.4465025,105.2629835,"Jl. Ikan Bawal No.22, Pesawahan, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35221 ",,kuliner,4,1.0,True
+Warung Jontor Bandar Lampung,-5.3759055,105.2456876,"Jl. ZA. Pagar Alam, Gedong Meneng, Kec. Rajabasa, Kota Bandar Lampung, Lampung 35148 ",,kuliner,4,1.0,False
+Mie Lampung II,-5.4206261,105.2584021,"Jl. Raden Intan No.99/3, Enggal, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35118 ",,kuliner,4,1.0,True
+KANTIN MUTIARA (Makanan Khas Palembang & Aneka Minuman),-5.3631989,105.2457639,"Jalan Bumi Manti RT. 01 / LK 1, Kp. Baru, Kec. Kedaton, Kota Bandar Lampung, Lampung 35141 ",,kuliner,4,1.0,False
+Kuliner Mak Hera by Granny's Nest,-5.405789,105.2787357,"Jl. Pulau Sebuku Jl. P. Antasari No.9, Tj. Baru, Kec. Kedamaian, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,False
+Raja Kuring,-5.424418,105.279935,"Jl. Yasir Hadi Broto No.31, Tj. Gading, Kec. Kedamaian, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,True
+Ayam penyet surabaya,-5.3809604,105.269484,"Jalan Sultan Agung No. 12 Labuhan Ratu, Sepang Jaya, Kec. Kedaton, Kota Bandar Lampung, Lampung 35141 ",,kuliner,4,1.0,True
+Pempek 123 - Teuku Umar,-5.398374,105.261113,"Jl. Teuku Umar No.36E, Sidodadi, Kec. Kedaton, Kota Bandar Lampung, Lampung 35123 ",,kuliner,4,1.0,True
+Pempek Nony 168 - Bandar Lampung,-5.4417747,105.2718638,"Jl. Salim Batubara, Kupang Teba, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung 30126 ",,kuliner,4,1.0,True
+Mr. Sumo - Lampung City Mall,-5.4427476,105.28021,"Jl. Yos Sudarso No.80 Lampung City Mall Lt. Lobby Blok 06C, Lampung 35226 ",,kuliner,4,1.0,True
+"Onago Kitchen, Lampung City Mall",-5.4437739,105.2804036,"Jl. Yos Sudarso No.80, Bumi Waras, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35226 ",,kuliner,4,1.0,False
+Pindang Meranjat Mak War,-5.4153133,105.2634357,"Jl. Dr. Harun 1 No.21, Kota Baru, Kec. Tanjungkarang Timur, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,True
+Marugame Udon Lampung City Mall,-5.4435917,105.2802959,"Jl. Yos Sudarso No.44, Tlk. Betung, Kec. Bumi Waras, Kota Bandar Lampung, Lampung 35226 ",,kuliner,4,1.0,True
+RM. Ratu Foody,-5.4289674,105.2772547,"Jl. Perintis Kemerdekaan No.189, Tj. Gading, Kec. Tanjungkarang Timur, Kota Bandar Lampung, Lampung 35128 ",,kuliner,4,1.0,False
+Wisata Kuliner Pelajar Kota Bandar Lampung,-5.4207493,105.2542113,"Jl. Ade Irma Suryani, Palapa, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,False
+The Angry Crab,-5.430667,105.2616219,"Jl. Diponegoro No.3, Sumur Batu, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung 35212 ",,kuliner,4,1.0,True
+Resto Alam Kuring,-5.4072039,105.2852031,"Jl. Ridwan Rais No.23c, Tj. Baru, Kec. Kedamaian, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,True
+"Bebek Prakoso 3, cabang Pahoman, Bandar Lampung",-5.426291,105.2751297,"Jl. Gatot Subroto No.63, Pahoman, Enggal, Kota Bandar Lampung, Lampung 35226 ",,kuliner,4,1.0,True
+Kinar Resto,-5.4131915,105.2350314,"Haji Agus Salim No.88, Sukadana Ham, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung 35116 ",,kuliner,4,1.0,True
+Ayam Bakar Mbok Jum 5 ( Rajabasa ),-5.3738415,105.2419943,"Jl. ZA. Pagar Alam, Gedong Meneng, Kec. Rajabasa, Kota Bandar Lampung, Lampung 35146 ",,kuliner,4,1.0,True
+My Kopi O! Lampung City Mall,-5.4436687,105.280178,"Jl. Yos Sudarso No.80, Bumi Waras, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35226 ",,kuliner,4,1.0,True
+Rumah Makan Sendok Mas,-5.421627,105.255933,"SPBU. 24.351.35, Jl. Jenderal Ahmad Yani No.21, Pelita, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,False
+Samwon Express,-5.3823859,105.259154,"Mall Bumi Kedaton Lantai GF-1, Jalan Teuku Umar, Kedaton, Kec. Kedaton, Kota Bandar Lampung, Lampung 35141 ",,kuliner,4,1.0,True
+Kuliner Bu D' ENO Bandar lampung,-5.4017985,105.2922713,"Jl. Sapir No.14, Sukabumi Indah, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,False
+Ayam Penyet Hang Dihi,-5.3849441,105.2953267,"J78W+25C, Jl. Pulau Sebesi No.001, Sukarame, Kec. Sukarame, Kota Bandar Lampung, Lampung 35131 ",,kuliner,4,1.0,True
+Kuliner Kasih,-5.3946966,105.2022585,"Jl. Cendrawasih, Beringin Raya, Kec. Kemiling, Kota Bandar Lampung, Lampung 35155 ",,kuliner,4,1.0,False
+Kuliner Olga,-5.4338284,105.2621703,"Jl. Cut Mutia No.4, Gulak Galik, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung 35214 ",,kuliner,4,1.0,False
+Pempek Judes,-5.44879,105.2623864,"Jl. Ikan Kakap No.100B, Pesawahan, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35223 ",,kuliner,4,1.0,True
+Mie Kalong Urip,-5.391666,105.2810621,"Jl. Urip Sumoharjo No.145-147, Way Halim Permai, Kec. Sukarame, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,True
+Miisonii,-5.3970978,105.2316186,"Gg. Murni No.2 No.8, Langkapura, Kec. Langkapura, Kota Bandar Lampung, Lampung 35154 ",,kuliner,4,1.0,True
+Restoran Garuda,-5.4188732,105.252751,"Jl. Cut Nyak Dien No.24-20, Palapa, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35119 ",,kuliner,4,1.0,False
+Rumah Makan Khuailok ( Happiness ),-5.4160272,105.2580863,"No. 80 C-E, Jl. Raden Intan, Pelita, Enggal, Bandar Lampung City, Lampung 35213 ",,kuliner,4,1.0,False
+"Kuliner teteh tu'ah ( mie jablai , jamur, usus crispie )",-5.377097,105.2841547,"J7FM+5M6, Way Dadi, Kec. Sukarame, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,False
+RM Sumatra,-5.4110964,105.2571531,"35111, Jl. Pangkal Pinang No.30/42, Tj. Karang, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35127 ",,kuliner,4,1.0,True
+RM Aneka Rasa,-5.383939,105.2741789,"Jl. Griya Utama No.8, Way Halim Permai, Kec. Way Halim, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,False
+"Villa_Rumah Kayoe , Private Resto",-5.3733439,105.2663572,"Jl. Sultan H. No.80, Sepang Jaya, Kec. Kedaton, Kota Bandar Lampung, Lampung 35136 ",,kuliner,4,1.0,True
+mie asang,-5.4129346,105.2556392,"Jl. Kartini No.179, Tj. Karang, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35127 ",,kuliner,4,1.0,True
+Pondok Kuliner Pak Heri,-5.3667659,105.275292,"Jl. Ratu Dibalau No.140, Tj. Senang, Kec. Tj. Senang, Kota Bandar Lampung, Lampung 35136 ",,kuliner,4,1.0,False
+Mie Inti,-5.448168,105.266424,"Jl. Ikan Bawal No.178A, Tlk. Betung, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35211 ",,kuliner,4,1.0,True
+Kuliner Obob,-5.3566168,105.2426465,"Rajabasa Raya, Kec. Rajabasa, Kota Bandar Lampung, Lampung 35142 ",,kuliner,4,1.0,False
+Sate Cak Umar,-5.4198278,105.2580837,"Jl. Raden Intan No.118, RT.02/RW.2, Pelita, Engal, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,True
+Khuailok Malahayati,-5.4478133,105.268444,"Samping Alfamart, Jl. Laksamana Malahayati No.82 B-C, Tlk. Betung, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35221 ",,kuliner,4,1.0,True
+HokBen Lampung City Mall,-5.4430182,105.280385,"Jl. Yos Sudarso No.44, Bumi Waras, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35226 ",,kuliner,4,1.0,True
+Bakso Lapangan Tembak Senayan,-5.3823905,105.2594415,"Mal Boemi Kedaton Lantai 1 (Depan Hokben, Jl. Teuku Umar No.8 Blok L, Kedaton, Kec. Kedaton, Kota Bandar Lampung, Lampung 35132 ",,kuliner,4,1.0,False
+Kuliner enak,-5.3926837,105.2153154,"Jl. Teuku Cik Ditiro No.2, Sumber Rejo, Kec. Kemiling, Kota Bandar Lampung, Lampung 35155 ",,kuliner,4,1.0,False
+"Domesteak, Transmart Carrefour Lampung",-5.3834727,105.2825443,"Way Dadi, Kec. Sukarame, Kota Bandar Lampung, Lampung ",,budaya,2,1.0,False
+Kuliner Titing,-5.3970701,105.2854031,"Jl. Panorama 3 No.103, Kalibalau Kencana, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122 ",,kuliner,4,1.0,False
+Pindang Kepala Simba Restu Murni,-5.4228141,105.2646138,"Jl. Jend. Sudirman No.14, Rw. Laut, Engal, Kota Bandar Lampung, Lampung 35213 ",,kuliner,4,1.0,True
+Pempek Tenda Biru Tamin,-5.4068391,105.2487089,"Jl. Tamin No.51, Suka Jawa, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung 35118 ",,kuliner,4,1.0,True
+Bintang 88 Vegetarian,-5.4477662,105.2628754,"Jl. Ikan Tongkol No.134 / 46, Pesawahan, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35221 ",,kuliner,4,1.0,True
+Bakso Mustofa Khas Kuliner Solo,-5.3666646,105.2719739,"Gg.Hj, Jl. Sultan H. Gg. HS Djaelani No.:20, Tj. Senang, Kec. Tj. Senang, Kota Bandar Lampung, Lampung 35136 ",,kuliner,4,1.0,False
+Kedai Kuliner 24,-5.4080197,105.2529287,"H7R3+Q5V, Suka Jawa, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung 35127 ",,kuliner,4,1.0,False
+Kuliner Nagih15 Cabang,-5.4040965,105.2348603,"Jln St badarudin gg.bhakti1, Susunan Baru, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung 35116 ",,kuliner,4,1.0,False
+Pusat Kuliner lapangan Way Dadi,-5.3847599,105.290964,"J78R+39W, Jl. Pulau Tegal, Way Dadi, Kec. Sukarame, Kota Bandar Lampung, Lampung 35133 ",,kuliner,4,1.0,False
+Warung Makan Dea,-5.4623934,105.3168028,"Jalan Yos Sudarso No. 13, Panjang Utara, Panjang, Pidada, Kec. Panjang, Kota Bandar Lampung, Lampung 35241 ",,kuliner,4,1.0,False
+Kuliner abati,-5.3811492,105.2404021,"Gg. Swadaya 8, Gn. Terang, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung 35147 ",,kuliner,4,1.0,False
+MJ Kuliner Bdl,-5.3914374,105.2410611,"J65R+CCF, Jl. Landak, Segala Mider, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung ",,kuliner,4,1.0,False
+Air Terjun Ciupang,-5.5885654,105.0204935,"C27F+7MX, Sumber Jaya, Kecamatan way ratai, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+WAY MIOS gunung batu,-5.4397252,105.0969334,"Dusun g.batu, Pampangan, Kec. Gedong Tataan, Kabupaten Pesawaran, Lampung 35368 ",,alam,1,1.0,False
+Puncak Bukit Cendana Pesawaran,-5.5399929,105.1077046,"Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Batu Mandi,-5.5775974,105.2007355,"C6C2+X79, Batumenyan, Kecamatan Teluk Pandan, Kabupaten Pesawaran, Lampung 35351 ",,alam,1,1.0,False
+Pantai Bensam 2,-5.5774841,105.2044988,"Batumenyan, Jl. Way Ratai, Kec. Teluk Pandan, Kabupaten Pesawaran, Lampung 35450 ",,alam,1,1.0,False
+Air terjun TALANG RABUN,-5.4960797,105.1607895,"G546+Q9, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Klara Lampung,-5.5799026,105.2131419,"Jl. Way Ratai No.99, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Air Terjun Sinar Tiga(Sukma ilang),-5.530335,105.1034834,"F493+V99, Jl. Sinar Tiga, Harapan Jaya, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Tahura Wan Abdul Rachman (Gunung Betung),-5.4369481,105.1570949,"H574+6RH, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35366 ",,alam,1,1.0,False
+Air Terjun Gunung Betung,-5.422454,105.1484702,"H4HX+299, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai Klara 2,-5.5830403,105.218281,"Desa, Batu Menyan, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+TAHURA WAR LAMPUNG,-5.4201538,105.1857204,"Jl. Wan Abdurrahman, Sumber Agung, Kec. Kemiling, Kabupaten Pesawaran, Lampung 35156 ",,kuliner,4,1.0,True
+Puncak Gunung Betung,-5.4420937,105.160132,"H556+536, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35366 ",,alam,1,1.0,False
+Pantai Ketapang Pesawaran,-5.5908088,105.2346213,"C65M+MRH, Jl. Way Ratai, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Air Terjun Lubuk Law,-5.5212395,105.1876062,"Jl. Raya Way Ratay, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Air terjun Batu lapis,-5.4946931,105.1587631,"G545+4GC, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Wisata Pemandian Air Panas Way Urang,-5.5982538,105.1094423,"C425+MQW, Way Urang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Air Terjun Seribu Mimpi,-5.4781592,105.1625017,"G5C7+P2, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Air Terjun Tundo Telu,-5.5651231,105.0437101,"Gn. Rejo, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pulau Kelagian Lunik,-5.6433977,105.2325189,"964M+J2R, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Wisata Air Bebek Goes Desa Kertasana,-5.4585614,104.9906144,"GXRR+H6H, Kerta Sana, Kec. Kedondong, Kabupaten Pesawaran, Lampung 35368 ",,alam,1,1.0,False
+Bukit Lantana Harapan Jaya,-5.535909,105.1008428,"Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+PANTAI DERMAGA PIABUNG,-5.6099221,105.1713815,"95RC+2HJ, Jl. Piabung Dalam, Sanggi, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Air Terjun Batu Menangis (Punggung Naga),-5.5224519,105.0924314,"F3HR+2X, Gn. Rejo, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Wisata Air Beronjong,-5.4214617,105.06843,"H3H9+C97, Cipadang, Kec. Gedong Tataan, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,True
+Muncak Tirtayasa,-5.4881391,105.2440154,"G66V+PJR, Gunung Muncak, Sukajaya Lempasing, Padang Cermin, Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35236 ",,alam,1,1.0,True
+Wisata laut dan wahana bebek goes,-5.6200482,105.183421,"Jl. Pematang Awi, Durian, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai kelapa kunjir,-5.5070375,105.2573276,"Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35236 ",,alam,1,1.0,False
+Air Terjun S'Nyuman Pesawaran Indah,-5.5278695,105.0930765,"Way Ratai, Kec. Kedondong, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+WISATA VILLA GARDENIA LAMPUNG,-5.4858337,105.2498891,"Jl. Laksamana R.E.Martadinata, Sukajaya Lempasing, Teluk Pandan, Kabupaten Pesawaran, Lampung 33411 ",,alam,1,1.0,True
+Lembah Khayangan,-5.5830323,105.1035475,"C483+QCM, Way Urang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,True
+Taman Nemo,-5.6634717,105.2028368,"86P3+J48, Pulau Pahawang, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung 35453 ",,alam,1,1.0,False
+KEBUN ALPUKAT YELLOW Golden Way Harong,-5.4450095,105.0263562,"H23G+XGX, Way Harong, Way Lima, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,True
+LAHAN PAKIS,-5.4301775,105.208727,"H695+WFH, Jl. Wan Abdurrahman, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35156 ",,alam,1,1.0,True
+WAYRATAIOUTDOOR,-5.6097084,105.092194,"93RR+4V8, Jl. Padang Cermin - Gedong Tataan Pasar, Bunut, Way Ratai, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,True
+Mangrove cuku NyiNyi,-5.5623788,105.2447229,"C6QV+2VX, Jl. Sidodadi, Sidodadi, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,True
+NUUBOY,-5.582417,105.1316775,"C49J+4HV, Jl. Ps., Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35451 ",,kuliner,4,1.0,True
+AIR TERJUN KEMBAR RINDU ALAM,-5.582118,105.0592672,"C395+5P2, DUSUN SIDOMUKTI DESA CERINGIN ASRI, Wates Way Ratai, Kabupaten Pesawaran ",,alam,1,1.0,False
+Air Terjun Sentul Jaya,-5.5866354,105.079423,"C37H+8QV, Wates Way Ratai, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Muncak Pas,-5.495234,105.2266515,"G63G+WM2 Desa Munca, Hanura, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35453 ",,alam,1,1.0,True
+KEBUN ALPUKAT SUNTAN 2,-5.5061822,105.0289496,"Sinar Harapan, Kec. Kedondong, Kabupaten Pesawaran, Lampung 35381 ",,alam,1,1.0,True
+Lengkung Langit,-5.4178495,105.1866787,"H5MP+MQV, Jl. Wan Abdurrahman, Sumber Agung, Kec. Kemiling, Kota Bandar Lampung, Lampung 35156 ",,alam,1,1.0,True
+Wisata Puncak Vietnam,-5.4159927,105.1920952,"H5MR+JR5, Sumber Agung, Kec. Kemiling, Kota Bandar Lampung, Lampung 35156 ",,alam,1,1.0,True
+Pemancingan Kentung,-5.4153338,105.0658252,"H3M8+X9F, Cipadang, Kec. Gedong Tataan, Kabupaten Pesawaran, Lampung 35367 ",,alam,1,1.0,True
+Rumah Pohon 3 tingkat,-5.4205792,105.1888719,"H5HQ+QG9, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35156 ",,alam,1,1.0,True
+Kolam Renang Telaga langit biru,-5.6024949,105.1045677,"94X3+2R4, Dekat, Bunut, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Air Terjun Bogorejo,-5.4080978,105.1043323,"H4R3+QP8, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35366 ",,alam,1,1.0,False
+Air Terjun Tanjung Agung Way Lima,-5.4695312,105.0652673,"G3J8+54, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Talang Kampung Baru,-5.497738,105.159939,"G525+WX, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung ",,budaya,2,1.0,False
+GUNUNG SARI,-5.4596291,104.9742968,"GXRC+CXM, Gunungsari, Kec. Kedondong, Kabupaten Pesawaran, Lampung 35368 ",,alam,1,1.0,False
+Pulau Mahitam,-5.5930945,105.244181,"C64V+QM7, Ketapang, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Kampoeng vietnam,-5.4157651,105.193383,"Jl. Wan Abdurrahman, Sumber Agung, Kec. Kemiling, Kota Bandar Lampung, Lampung 35156 ",,alam,1,1.0,True
+Air Terjun Tirta Harapan Jaya,-5.54387,105.0995258,"F34X+FR2, Jl. Sinar Dua, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Cahaya Tour Lampung Mepo wisata pulau,-5.587157,105.2278618,"Dermaga 4, Ketapang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Taman Andan Jejama,-5.3990588,105.0704235,"J32C+95F, Waylayap, Kec. Gedong Tataan, Kabupaten Pesawaran, Lampung 35366 ",,alam,1,1.0,False
+PUNGKI PARK (Taman Wisata Edukasi),-5.4387353,105.0292624,"Way Harong, Way Lima, Kabupaten Pesawaran, Lampung 35366 ",,alam,1,1.0,False
+Wisata puncak bukit kendeng,-5.6011768,105.0382076,"92XQ+G7G, Sumber Jaya, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Air Terjun Mandiri,-5.5218528,105.0831774,"F3HM+773, Bangun Rejo, Gn. Rejo, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Kolam Pemandian Wonotirto,-5.5666571,105.0855002,"C3MP+86, Pesawaran Indah, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Camping ground,-5.4215356,105.1421109,"H4HR+9RQ, Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35366 ",,alam,1,1.0,True
+Lembah Bagedor,-5.4593621,105.1842863,"G5RM+7P3, Hurun, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,True
+Rest area bukit cendana,-5.6054482,105.1235621,"94VF+RCF, Hanau Berak, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+ANJUNG PEKHABUT - wisata Alam viral,-5.4919318,104.9858248,"GX5P+68G, Kubu Batu, Kec. Way Khilau, Kabupaten Pesawaran, Lampung 35368 ",,alam,1,1.0,False
+Hutan Mangrove Petengoran,-5.5686379,105.2401007,"C6JR+G2X, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Hidroponik Anjung Sikuk Pekondoh,-5.4203318,105.0380198,"RT./RW/RW.:/00200Keca, Pekondoh, Way Lima, Kabupaten Pesawaran, Lampung 00002 ",,alam,1,1.0,True
+Kolam renang Batin Perwira Kusuma,-5.495402,105.039865,"G23Q+RW, Sinar Harapan, Kec. Kedondong, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,True
+Air Terjun Cangkuang,-5.6161503,105.061699,"93M6+GMP, Wates Way Ratai, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Pasir Putih Lampung,-5.5302939,105.3575563,"Rangai Tri Tunggal, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai Sebalang,-5.584114,105.3803637,"Jl. Patih Canggih, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai Tanjung Selaki,-5.5584962,105.3678869,"Tarahan, Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai Marina Kalianda,-5.6818636,105.5156833,"Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Ketang,-5.7113763,105.5682214,"Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Cemara,-5.6857183,105.529603,"8G8H+4V5, Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Tapak Kera,-5.6861917,105.5170519,"Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Kedu Kalianda,-5.722807,105.58097,"Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+"Pantai Masin, Kalianda, Lampung Selatan",-5.6849573,105.5590308,"8H85+2J6, Pantai Masin, Kec. Kalianda, Kabupaten Lampung Selatan, 35551 ",,alam,1,1.0,False
+Pantai Selaki Tarahan,-5.5616278,105.3777521,"Tarahan, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai Teluk Nipah Kalianda,-5.6693994,105.5026635,"Bulok, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Sapenan,-5.6703463,105.5357536,"Java Sea, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Semukuk,-5.7619913,105.5876704,"Jl. Pesisir, Pauh Tj. Iman, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+PANTAI MUARA INDAH SUAK,-5.6462449,105.4665915,"Suak, Kec. Sidomulyo, Kabupaten Lampung Selatan, Lampung ",,alam,1,1.0,False
+Pantai KeduWarna,-5.7185983,105.5770257,"Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Dermaga Bom Kalianda,-5.7432737,105.5882592,"Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,True
+Pantai Setigi Heni,-5.7898231,105.5813092,"Canggung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35552 ",,alam,1,1.0,False
+Kawasan Wisata Pantai Maja,-5.7551292,105.5858009,"Jl. Pesisir No.484, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Kedu Sinar Laut,-5.7238139,105.5817964,"Kalianda, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Merak Belantung,-5.6802532,105.5315013,"Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Indah Krakatoa,-5.6682567,105.5453361,"Jl. H. Abdul Muthalib, Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Mutun,-5.5143696,105.2633118,Lampung ,,alam,1,1.0,False
+Pantai Katibung,-5.6249901,105.419342,"Karya Tunggal, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai Payang,-5.6836819,105.5311234,"Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Rio by the Beach,-5.6730313,105.5069796,"8GG4+QR, Bulok, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung ",,alam,1,1.0,False
+Pantai Sari Ringgung,-5.5575315,105.2521742,"Jl. Way Ratai No.KM. 14, Sidodadi, Teluk Pandan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Pelangi Indah,-5.7215033,105.5801814,"7HHJ+93V, Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Pandawa Surung Batang,-5.6086564,105.4022393,"9CR2+GVQ, Surung Batang, Tarahan, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai terjun karya tunggal,-5.6251826,105.4191771,"9CF9+WMF, Karya Tunggal, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai Sudul,-5.6621144,105.485949,"8FQP+4C, Bulok, Kabupaten Lampung Selatan, Lampung ",,alam,1,1.0,False
+Dermaga Suak Sidomulyo Lampung Selatan Indonesia,-5.6356852,105.4458882,"Suak, Kec. Sidomulyo, Kabupaten Lampung Selatan, Lampung ",,alam,1,1.0,True
+Pantai cukuh perak,-5.6356875,105.4430625,"9C7V+P6, Suak, Kabupaten Lampung Selatan, Lampung ",,alam,1,1.0,False
+Pantai Bagoes,-5.6674273,105.5548365,"8HM3+2WG, Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pasir wisata pasir putih,-5.5275261,105.3540614,"F9F3+6PM, Jl. Lintas Sumatera, Rangai Tri Tunggal, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,True
+Pantai gucibatukapal Campingwisata beach nature,-5.7601491,105.5872019,"Jl. Pesisir, Maja, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Sebalang Eco Park,-5.5911428,105.3883327,"C95Q+G8W, Jl. Patih Canggih, Karya Tunggal, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+Pantai Banding Resort,-5.8113308,105.5944196,"5HQV+HG8, Desa, Banding, Rajabasa, Kabupaten Lampung Selatan, Lampung 35552 ",,alam,1,1.0,False
+Pantai Batu Ulay,-5.7096118,105.5672294,"Pantai Batu ulay Ketang, Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Greasia,-5.5055737,105.3350687,,,alam,1,1.0,False
+M Beach,-5.6670108,105.5416012,"Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Pesisir Kalianda,-5.7104827,105.5673768,"7HQ9+P83, Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Wisata Setigi BATU Beach,-5.7848272,105.5840705,"Jl. Pesisir, Canggung, Rajabasa, Kabupaten Lampung Selatan, Lampung 35552 ",,alam,1,1.0,False
+Kalianda beach,-5.7278902,105.5849996,35551 ,,alam,1,1.0,False
+Pantai Laguna Helau,-5.6987636,105.5566472,"8H24+FMR, Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Kalapa,-5.5953485,105.3894404,"C93Q+VQ8, Jl. Patih Canggih, Karya Tunggal, Kec. Katibung, Kabupaten Lampung Selatan, Lampung ",,alam,1,1.0,False
+Pantai Munca Indah,-5.8027166,105.5838144,"Canti, Rajabasa, Kabupaten Lampung Selatan, Lampung 35552 ",,alam,1,1.0,False
+Pantai Klara Lampung,-5.5799026,105.2131419,"Jl. Way Ratai No.99, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Cantri,-5.5123374,105.2720941,"F7QC+3R9, Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Bagus Beach Walk,-5.6675531,105.5545944,"8HM3+2WG, Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+titian mutiara beach,-5.7812624,105.5806715,"6H9J+F7V, Jl. Pesisir, Kalianda, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35552 ",,alam,1,1.0,False
+Gerbang Pantai Bagus Merakbelantung,-5.6659032,105.5543225,"8HM3+JPP, Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Lost Island Elty Krakatoa Kalianda,-5.6739592,105.5345681,"Kawasan Krakatoa Kalian Resort, Jalan transt Sumatera KM. 45, Blantung, Kalianda, Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+SAMUKUK INDAH BEACH,-5.7615583,105.5831978,"6HQM+97G, Pauh Tj. Iman, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai glodok,-5.6383995,105.447239,"9C6W+JVX, Suak ",,alam,1,1.0,False
+Pantai Dewi Mandapa Pesawaran,-5.5723783,105.2436664,"Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Aurora Beach,-5.7180625,105.5781855,"Jl. Sinar Laut, Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+"Prast Island - Kalianda , Lampung Selatan",-5.6810825,105.5484606,"8G9X+H98, Merak Belantung ",,alam,1,1.0,False
+PANTAI GOCENG,-5.6587042,105.5532993,"8HR3+G87, Merak Belantung, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Suak Keramat,-5.6359721,105.4459593,"9C7W+J9, Suak, Kec. Sidomulyo, Kabupaten Lampung Selatan, Lampung ",,alam,1,1.0,False
+Pantai jondong,-5.768828,105.5810316,"6HJJ+FC7, Jondong, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+SENAYA BEACH,-5.715753,105.5757742,"Jl. Sinar Laut, Way Urang, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551 ",,alam,1,1.0,False
+Pantai Ketapang Pesawaran,-5.5908088,105.2346213,"C65M+MRH, Jl. Way Ratai, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Dewi Mandapa Pesawaran,-5.5723783,105.2436664,"Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Klara Lampung,-5.5799026,105.2131419,"Jl. Way Ratai No.99, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai kelapa kunjir,-5.5070375,105.2573276,"Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35236 ",,alam,1,1.0,False
+Pantai Batu Mandi,-5.5775974,105.2007355,"C6C2+X79, Batumenyan, Kecamatan Teluk Pandan, Kabupaten Pesawaran, Lampung 35351 ",,alam,1,1.0,False
+Pantai Mutun (MS Town Beach),-5.5140783,105.2629427,"Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai Klara 2,-5.5830403,105.218281,"Desa, Batu Menyan, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+"Pantai Bensam - Pantai Ramah Anak , Pantai Hidden Gem di Lampung",-5.578379,105.2005472,"Jl. Way Ratai, Kabupaten Pesawaran, Lampung 35369 ",,alam,1,1.0,False
+Pantai Mahitam,-5.5915415,105.2423384,"C65R+9W, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai Sari Ringgung,-5.5575315,105.2521742,"Jl. Way Ratai No.KM. 14, Sidodadi, Teluk Pandan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Mutun 2,-5.5172975,105.2643201,"F7M7+3PP, Jl. Pantai Mutun, Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai Cantri,-5.5123374,105.2720941,"F7QC+3R9, Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Teluk Hantu,-5.7746176,105.2139656,"66G7+5H4, Unnamed Road, Pagar Jaya, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung 35379 ",,alam,1,1.0,True
+Pantai Merud,-5.6362634,105.1924446,"957R+FXW, Dusun Pakuan, Durian, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35453 ",,alam,1,1.0,False
+Pantai Mutun Water Boom,-5.5174591,105.2649658,"F7M7+2X8, Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pulau Kelagian Lunik,-5.6433977,105.2325189,"964M+J2R, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai Sebalang,-5.569988,105.3773484,"C9MH+GVJ, sebalang, Dusun Sebalang, Tarahan, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+MARINES Eco Park,-5.6142694,105.1711016,"Sanggi, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+obyek wisata pahawang lampung,-5.6742298,105.2417888,"86GR+8P3, Pulau Pahawangkecil, Marga, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,True
+Pantai Kamintara,-5.7920513,105.1957078,"655W+57G, Pagar Jaya, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Tangkil Beach,-5.5106921,105.269204,"F7Q9+PMG, Tangkil Beach, Sukajaya Lempasing, Kec. Padang Cermin, Kota Bandar Lampung, Lampung ",,alam,1,1.0,False
+CUKUH BATU,-5.5260547,105.2549243,"F7F3+HXF, Kebun Kelapa, Kecamatan Teluk Pandan, Kabupaten Pesawaran, Lampung 35450 ",,alam,1,1.0,True
+Pantai Pancur Permai,-5.7199394,105.1936747,"Kec. Punduh Pedada Kab. Prov., Sukarame, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai pagar jaya,-5.7712979,105.1783409,"65HH+F8P, Pagar Jaya, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung 35379 ",,alam,1,1.0,False
+Muncak Pas,-5.495234,105.2266515,"G63G+WM2 Desa Munca, Hanura, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35453 ",,alam,1,1.0,True
+Pantai Way Tataan,-5.4800988,105.2527207,"G793+X39, Sukamaju, Kec. Tlk. Betung Bar., Kota Bandar Lampung, Lampung ",,alam,1,1.0,False
+Pantai Pasir Putih Lampung,-5.5302939,105.3575563,"Rangai Tri Tunggal, Kec. Katibung, Kabupaten Lampung Selatan, Lampung 35452 ",,alam,1,1.0,False
+D'Rajash Beach Lampung,-5.5575315,105.2521742,"Jl. Way Ratai No.KM. 14, Sidodadi, Teluk Pandan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Wisata Dasar Laut Pahawang TeA,-5.6622153,105.2099775,"Pulau Pahawang, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+PANTAI DERMAGA PIABUNG,-5.6099221,105.1713815,"95RC+2HJ, Jl. Piabung Dalam, Sanggi, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai UM Metro,-5.77235,105.185713,"65HP+37, Pagar Jaya, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Air Terjun Sinar Tiga(Sukma ilang),-5.530335,105.1034834,"F493+V99, Jl. Sinar Tiga, Harapan Jaya, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Taman Nemo,-5.6634717,105.2028368,"86P3+J48, Pulau Pahawang, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung 35453 ",,alam,1,1.0,False
+Hutan Mangrove Petengoran,-5.5686379,105.2401007,"C6JR+G2X, Gebang, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai Duta Wisata,-5.4768533,105.2525653,"Jl. Laksamana R.E.Martadinata, Kec. Tlk. Betung Bar., Lampung 35236 ",,alam,1,1.0,False
+pantai tirtayasa,-5.4842046,105.2527274,"Sukamaju, Kec. Telukbetung Timur, Kota Bandar Lampung, Lampung ",,alam,1,1.0,False
+Pantai Karem,-5.1811373,105.1948794,"R59W+G93, Rejoagung, Kec. Tegineneng, Kabupaten Pesawaran, Lampung 35363 ",,alam,1,1.0,False
+Dermaga Tegal Mas Island Resort,-5.5617781,105.2734429,"C7QF+79, Gebang, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai teluk ancur,-5.7731632,105.1682071,"65G9+P7P, Unnamed Road, Sukamaju, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung 35379 ",,alam,1,1.0,False
+Puncak Bukit Cendana Pesawaran,-5.5399929,105.1077046,"Hutan, Kec. Hutan, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Air Terjun Anglo,-5.5356366,105.0697182,"F379+PVW, Gn. Rejo, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Pantai Mr.geprek,-5.7864994,105.2189049,"6679+CH2, Unnamed Road, Pagar Jaya, Kec. Punduh Pidada, Kabupaten Pesawaran, Lampung 35379 ",,alam,1,1.0,False
+Tangkil Island,-5.510885,105.268681,"Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung ",,alam,1,1.0,False
+Pantai Mandiri,-5.2509606,103.9725957,"Balai Kencana, Kec. Krui Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Pasir Putih Pesisir Barat,-5.3722534,104.0490675,"J2HX+4H, Marang, Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Pantai Melasti,-5.3906977,104.0637871,"Jl. Bengkunat - Krui, Marang, Kec. Pesisir Sel., Kabupaten Lampung Barat, Lampung 34875 ",,alam,1,1.0,False
+Pantai Tanjung Setia,-5.3038746,104.0001075,"Jl. Lintas Barat Sumatera, Way Jambu, Kec. Pesisir Sel., Kabupaten Pesisir Selatan, Lampung 34875 ",,alam,1,1.0,False
+Pantai Walur,-5.2156893,103.902526,"Walur, Kec. Krui Sel., Kabupaten Lampung Barat, Lampung 34874 ",,alam,1,1.0,False
+Pantai Tembakak Krui,-5.1042461,103.8640447,"VVW7+8J3, Jl. Lintas Barat Sumatera, Way Sindi Utara, Kec. Karya Penggawa, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Pesisir Way Sindi,-5.1290712,103.9126222,"Way Sindi, Kec. Karya Penggawa, Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Pantai Negri Tanumbang Krui,-5.0314723,103.7677628,"Jl. Khalipah Alam, Pesisir Barat, Lampung 34876 ",,alam,1,1.0,False
+Pantai Batu Tihang,-5.0509659,103.8151882,"WRX8+J38, Kota Karang, Kec. Pesisir Utara, Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Cemara Beach Henni Halom Pekon Pagar Dalam,-5.2929375,104.0083125,"P245+R8, Pagar Dalam, Kec. Pesisir Sel., Kabupaten Pesisir Barat, Lampung 34875 ",,alam,1,1.0,False
+Pantai Pase,-5.3763968,104.0561539,"Marang, Kec. Pesisir Sel., Kabupaten Lampung Barat, Lampung 34875 ",,alam,1,1.0,False
+Pantai Marang (Pantai Kelapa Viral),-5.3842565,104.0608038,"J386+M5J, Jl. Bengkunat - Krui, Marang, Kec. Pesisir Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Ilahan,-5.2332145,103.9093422,"QW85+PP8, Walur, Kec. Krui Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Way Jambu,-5.3672214,104.0400157,"Bangun Negara, Kec. Pesisir Sel., Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Pantai Harapan,-5.3149366,103.9938291,"MXMV+VJG, Tj. Setia, Kec. Pesisir Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Pasir Putih Bangun Negara,-5.3697031,104.0467595,"J2JW+4P6, Bangun Negara, Kec. Pesisir Sel., Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Pantai Mayah,-5.2352879,103.9107728,"QW76+V8J, Lintik, Kec. Krui Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai ketapang indah krui.,-5.3218229,103.9987831,"MXHX+7GF, Kec. Pesisir Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Segarak,-5.088155,103.8492543,"Way Sindi Utara, Kec. Karya Penggawa, Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Pantai Sharling,-5.136053,103.9185864,"VW79+HCG, Way Nukak, Kec. Karya Penggawa, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+BENAWANG BEACH,-5.0315502,103.7437191,"XP9V+9FH, Walur, Kec. Pesisir Utara, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Bidok Pekon Pelita Jaya,-5.2818173,104.0059279,"P294+79F, Tj. Jati, Kec. Pesisir Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Batu Mirau Malaya,-4.9686389,103.7178734,"2PJ9+G4X, Malaya, Kec. Lemong, Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Pantai Balam Kerbang Dalam,-5.0314677,103.7818638,"XQ9J+CP9, Kerbang Dalam, Kec. Pesisir Utara, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai penggawa v tengah,-5.1471541,103.9286551,"VW3H+4FJ, Jl. Pantai Harapan, Penggawa Lima Tengah, Kec. Karya Penggawa, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai semincak,-5.066712,103.839566,"Jl. Lintas Barat Sumatera Pantai semincak indah No.3, Pemancar, Kec. Pesisir Utara, Kabupaten Pesisir Barat, Lampung 34576 ",,alam,1,1.0,False
+PANTAI BUBA,-5.2526443,103.9772867,"PXXH+27, Balai Kencana, Kec. Krui Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Batu Sasundai,-5.0462256,103.7944648,"XQ3V+GQ4, Way Narta, Kec. Pesisir Utara, Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+PANTAI SERUNTING,-5.0008469,103.747726,"Jl. Pekon Balak No.85, Bandar Pugung, Kec. Lemong, Kabupaten Pesisir Barat, Lampung 34876 ",,alam,1,1.0,False
+Pantai BUDANGIN,-5.3857422,104.0610774,"Marang, Kec. Pesisir Sel., Kabupaten Lampung Barat, Lampung ",,alam,1,1.0,False
+Pantai Pekon Balak,-5.0071401,103.7448135,"XPVV+HWJ, Jl. Rarukah Penengahan, Penengahan, Kec. Lemong, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Bukit Selalau,-5.1830556,103.9317038,"RW8J+HPR, Ps. Krui, Kec. Pesisir Tengah, Kabupaten Pesisir Barat, Lampung 34874 ",,alam,1,1.0,False
+Pantai Penaga Resort,-5.3121758,103.9936621,"MXQV+4FF, Tj. Setia, Kec. Pesisir Sel., Kabupaten Pesisir Barat, Lampung 34875 ",,alam,1,1.0,False
+Pantai Kelapa Tinggi,-5.3203437,103.9972566,"MXHW+VW6, Biha, Kec. Pesisir Sel., Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Penengahan,-5.0190724,103.7442955,"Penengahan, Kec. Lemong, Kabupaten Lampung Barat, Lampung 34876 ",,alam,1,1.0,False
+Tj. Setia,-5.3081467,104.0101369,,,alam,1,1.0,True
+Pantai felix,-5.412985,104.0852669,"H3PP+R4, Sumber Agung, Kec. Ngambur, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Dermaga Pulau Pisang,-5.1171009,103.8516428,"Ps. Pulau Pisang, Kec. Pesisir Utara, Kabupaten Lampung Barat, Lampung 34878 ",,alam,1,1.0,False
+Pantai Way Batang,-4.9666187,103.6585245,"Unnamed Road, Way Batang, Kec. Lemong, Kabupaten Pesisir Barat, Lampung 34877 ",,alam,1,1.0,False
+Pantai Rumput Hijau,-5.3698312,104.0943247,"Marang, Kec. Pesisir Sel., Kabupaten Lampung Barat, Lampung 34875 ",,alam,1,1.0,False
+WISATA PANTAI CTC PARDAHGA,-4.9909125,103.6632969,"2M57+J8M, Parda Haga, Kec. Lemong, Kabupaten Pesisir Barat, Lampung ",,alam,1,1.0,False
+Pantai Batu Lemong,-5.0528642,103.8190008,"WRW9+VJ2, Jl. Lintas Barat Sumatera, Kec. Pesisir Utara, Lampung 34876 ",,alam,1,1.0,False
+Danau Way Jepara,-5.2029426,105.6640737,"Jalan Simpang Danau, Sumberjo, Kec. Way Jepara, Kabupaten Lampung Timur, Lampung 34396 ",,alam,1,1.0,False
+GOA PANDAN GIRI MULYO,-5.3910786,105.6697373,"JM59+HV9, Giri Mulyo, Kec. Marga Sekapung, Kabupaten Lampung Timur, Lampung 34384 ",,alam,1,1.0,False
+Kolam Renang Pitaloka,-5.0451215,105.3630458,"X937+X63, Wono Sari, Kec. Pekalongan, Kabupaten Lampung Timur, Lampung 34391 ",,alam,1,1.0,True
+Museum Purbakala,-5.3013941,105.561712,"MHX6+CMW, Pugung Raharjo, Kec. Sekampung Udik, Kabupaten Lampung Timur, Lampung 34384 ",,budaya,2,1.0,False
+Taman Wisata Beringin Indah,-5.0687706,105.5153758,"WGJ8+F5R, Negara Nabung, Kec. Sukadana, Kabupaten Lampung Timur, Lampung 34194 ",,alam,1,1.0,False
+Wisata Alam Guruh Sampang,-5.300404,105.5480743,"Gn. Pasir Jaya, Kec. Sekampung Udik, Kabupaten Lampung Timur, Lampung 34183 ",,alam,1,1.0,False
+Wisata danaupulau kembar,-5.30687,105.606317,"MJV4+2Q, Sidorejo, Kec. Sekampung Udik, Kabupaten Lampung Timur, Lampung 34385 ",,alam,1,1.0,False
+Wisata Desa Alas Pring,-4.976434,105.548243,"Jl. Bunga Fajar, Taman Fajar, Kec. Purbolinggo, Kabupaten Lampung Timur, Lampung 34192 ",,alam,1,1.0,False
+Lengkung Langit,-5.4178495,105.1866787,"H5MP+MQV, Jl. Wan Abdurrahman, Sumber Agung, Kec. Kemiling, Kota Bandar Lampung, Lampung 35156 ",,alam,1,1.0,True
+Air Terjun Labuhan Ratu,-5.161662,105.647427,"RJQW+8XM, Jl. Syuhada, Labuhan Ratu Tiga, Kec. Labuhan Ratu, Kabupaten Lampung Timur, Lampung 34375 ",,alam,1,1.0,False
+Wisata Goa sumur,-5.3844885,105.6642012,"JM87+6M4, Giri Mulyo, Kec. Marga Sekapung, Kabupaten Lampung Timur, Lampung 34384 ",,alam,1,1.0,False
+Rekreasi Taman Pinggir Sawah,-5.1253051,105.6707267,"VMFC+V7H, Labuhan Ratu, Kec. Labuhan Ratu, Kabupaten Lampung Timur, Lampung 34375 ",,alam,1,1.0,False
+Dam water park,-5.0168363,105.5678405,"XHM9+74, Surabaya Udik, Kec. Sukadana, Kabupaten Lampung Timur, Lampung ",,alam,1,1.0,False
+Wisata taman mbh jo,-5.1175664,105.3464976,"V8JW+XHH, Jl. Harjo Sudarmo, Bumi Harjo, Kec. Batanghari, Kabupaten Lampung Timur, Lampung 34381 ",,alam,1,1.0,False
+Wisata Sunset,-5.1298238,105.4141987,"VCC7+3MG, Selo Rejo, Kec. Batanghari, Kabupaten Lampung Timur, Lampung 34382 ",,alam,1,1.0,False
+Air Terjun 3 Alam Indah,-5.175111,105.496458,"RFFW+XH4, Desa Jl. Tj. Harapan, Tanjung Kari, Marga Tiga, East Lampung Regency, Lampung 34386 ",,alam,1,1.0,False
+taman wisata lebah madu,-5.1766155,105.3505092,"R9F2+962, Buana Sakti, Kec. Batanghari, Kabupaten Lampung Timur, Lampung 34335 ",,alam,1,1.0,False
+Wisata pemancingan Taman Hijau,-5.2804806,105.5501713,"PH92+R33, Bojong, Kec. Sekampung Udik, Kabupaten Lampung Timur, Lampung 34385 ",,alam,1,1.0,False
+Way sekampung.area pemancingan,-5.3202886,105.5245426,"MGHF+VRM, Gn. Agung, Kec. Sekampung Udik, Kabupaten Lampung Timur, Lampung 34376 ",,budaya,2,1.0,False
+Air terjun kenangan,-5.1616042,105.4946833,"RFQV+9V, Sumber Gede, Kec. Marga Tiga, Kabupaten Lampung Timur, Lampung ",,alam,1,1.0,False
+Ari terjun ciupang,-5.1677302,105.4331673,"RCJM+W73, Sidomulyo, Kec. Sekampung, Kabupaten Lampung Timur, Lampung 34382 ",,alam,1,1.0,True
+GREEN NET VANILI PLANIFOLIA,-5.2316396,105.5548851,"QH93+8XR, Bumi Mulyo, Kec. Sekampung Udik, Kabupaten Lampung Timur, Lampung ",,alam,1,1.0,False
+Wisata Kuliner SAUNG NGASO,-4.9665596,105.5136294,"Unnamed Road, Tegal Yoso, Kec. Purbolinggo, Kabupaten Lampung Timur, Lampung 34192 ",,kuliner,4,1.0,False
+Agrowisata Kebun Jeruk Bapak Dalimin,-5.30986,105.49421,"MFRV+3M4, Gn. Agung, Kec. Sekampung Udik, Kabupaten Lampung Timur, Lampung 34384 ",,alam,1,1.0,False
+Tugu Kutosari Sumbersari,-5.1300509,105.4725044,"VF9C+QXV, Sumbersari, Kec. Sekampung, Kabupaten Lampung Timur, Lampung 34382 ",,budaya,2,1.0,False
+Objek Wisata RIMBA DANAU,-5.2138753,105.6754682,"QMPG+C5, Hutan, Kabupaten Lampung Timur, Lampung ",,alam,1,1.0,False
+Agrowisata Kebun Buah Bukit Selupo,-5.174835,105.518794,"RGG9+3G7, Jl. Tj. Harapan, Tanjung Kari, Kec. Marga Tiga, Kabupaten Lampung Timur, Lampung 34386 ",,alam,1,1.0,False
+Tugu Pagar Nusa Purbosembodo,-5.2093207,105.2927552,"Q7RV+74C, Purbo Sembodo, Kec. Metro Kibang, Kabupaten Lampung Timur, Lampung 35362 ",,budaya,2,1.0,False
+WISATA TERAPI IKAN DAN PEMANDIAN KALI ALAM,-5.298663,105.7317191,"Sri Menanti, Kec. Bandar Sribawono, Kabupaten Lampung Timur, Lampung 34389 ",,alam,1,1.0,False
+Taman Horror,-5.1140827,105.3446009,"V8PV+4RH, Banjar Rejo, Kec. Batanghari, Kabupaten Lampung Timur, Lampung 34381 ",,alam,1,1.0,False
+Bendungan Wora Wari,-5.1130054,105.4055947,"dusun sri dadi desa, Sri Basuki, Kec. Batanghari, Kabupaten Lampung Timur, Lampung 34381 ",,alam,1,1.0,False
+Tugu Pepadun,-4.976043,105.2132015,"26F7+H7P, Jl. Lintas Sumatera, Gn. Sugih, Kec. Gn. Sugih, Kabupaten Lampung Tengah, Lampung 34161 ",,budaya,2,1.0,False
+Danau Kemuning,-5.305041,105.73423,"MPVM+XMQ, Sri Menanti, Kec. Bandar Sribawono, Kabupaten Lampung Timur, Lampung 34389 ",,alam,1,1.0,False
+Goa Macan,-5.3797629,105.6596901,"Dusun 05, Giri Mulyo, Kec. Marga Sekapung, Kabupaten Lampung Timur, Lampung 34384 ",,alam,1,1.0,False
+Situs Batu Bedil,-5.3110414,104.7019668,"MPQ2+HQP, Jalan Raya, Tekad, Pulau Panggung, Tanggamus Regency, Lampung 35679 ",,budaya,2,1.0,False
+Air terjun apik,-4.9286459,105.4871791,"3FCP+GV, Restu Rahayu, Kec. Raman Utara, Kabupaten Lampung Timur, Lampung ",,alam,1,1.0,False
+Tugu Jagung Manis,-5.0466043,105.3444219,"X83V+9Q3 Lap. Merdeka Wonosari, Wono Sari, Kec. Pekalongan, Kabupaten Lampung Timur, Lampung 34391 ",,budaya,2,1.0,False
+Puncak Gunung Slupo,-5.1629368,105.5093531,"RGP5+RPH, Jl. Umbul Gn. Jl. Tj. Harapan, Sumber Gede, Kec. Marga Tiga, Kabupaten Lampung Timur, Lampung 34386 ",,alam,1,1.0,False
+HUTAN SUAKA WAY KAMBAS,-4.9411554,105.5485628,"3G5X+GC, Tegal Ombo, Kec. Way Bungur, Kabupaten Lampung Timur, Lampung ",,alam,1,1.0,False
+Embung pemancingan sambikarto,-5.124452,105.456401,"VFG4+6H, Sambikarto, Kec. Sekampung, Kabupaten Lampung Timur, Lampung ",,budaya,2,1.0,False
+Gunung Prumpun,-5.3575551,105.6268018,"JJRG+XPF, Jl. Beringin, Gn. MAS, Kec. Marga Sekapung, Kabupaten Lampung Timur, Lampung 34384 ",,alam,1,1.0,False
+Wisata Alam Kaliaro,-5.2969185,105.7368095,"Sri Menanti, Kec. Bandar Sribawono, Kabupaten Lampung Timur, Lampung 34389 ",,alam,1,1.0,False
+GUA MARIA PEREMPUAN UNTUK SEMUA MANUSIA,-5.3508752,104.949647,"Pajaresuk Kec., Jl. Raya Sampang No.16, Fajar Esuk, Kec. Pringsewu, Kabupaten Pringsewu, Lampung 35373 ",,alam,1,1.0,False
+WDM WISATA RELIGI TUBAGUS SULAIMAN,-5.8368105,105.628153,"5J7H+77C, Waymuli, Rajabasa, Kabupaten Lampung Selatan, Lampung 35552 ",,religi,3,1.0,False
+Wihara Thay Hin Bio,-5.4487326,105.263158,"Jalan Ikan Kakap No. 35, Pesawahan, Teluk Betung Selatan, Pesawahan, Bandar Lampung, Kota Bandar Lampung, Lampung ",,budaya,2,1.0,True
+Masjid Agung Al-Furqan Bandar Lampung,-5.4294442,105.2603088,"Jl. Diponegoro, Gulak Galik, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung 35212 ",,religi,3,1.0,False
+Goa Maria Bunda Kerahiman,-5.0466855,104.3020756,"X832+8RG, Sekincau, Kec. Sekincau, Kabupaten Lampung Barat, Lampung 34884 ",,alam,1,1.0,False
+Makam KH. Ghalib,-5.3475089,104.9722863,"Jl. Makam KH. Ghalib, Pringsewu Utara, Kec. Pringsewu, Kabupaten Pringsewu, Lampung 35373 ",,budaya,2,1.0,False
+Tugu Bumi Sekala Bekhak,-5.0278626,104.4476655,"XCCX+V33, Jl. Lintas Liwa, Pura Laksana, Kec. Way Tenong, Kabupaten Lampung Barat, Lampung 34884 ",,budaya,2,1.0,False
+Curug Mbah Gimo,-5.1342191,104.3959408,"V98W+898 Pekon Sukadamai, Sukadamai, Kec. Air Hitam, Kabupaten Lampung Barat, Lampung 34874 ",,alam,1,1.0,False
+Air Terjun Ciupang,-5.5885654,105.0204935,"C27F+7MX, Sumber Jaya, Kecamatan way ratai, Kabupaten Pesawaran, Lampung 35451 ",,alam,1,1.0,False
+Bukit AsLan,-5.4185311,105.3113883,"Jl. Bukit Aslan No.2, Way Gubak, Sukabumi, Bandar Lampung City, Lampung 35244 ",,alam,1,1.0,False
+Masjid Apung Ringgung,-5.5563737,105.2547695,"C7V3+FW2, Lepas Pantai Sari Ringgung, Hanura, Padang Cermin, Pesawaran, Kabupaten Pesawaran, Lampung 35451 ",,religi,3,1.0,False
+Taman Tirta Asri,-5.3015056,104.9249841,"Sriwungu, Kec. Banyumas, Kabupaten Pringsewu, Lampung 35674 ",,alam,1,1.0,False
+Masjid Jami' Al-Anwar Teluk Betung,-5.4502729,105.2631168,"Jalan Laksamana Malahayati No. 100, Kangkung, Teluk Betung Selatan, Pesawahan, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung ",,religi,3,1.0,False
+TAHURA WAR LAMPUNG,-5.4201538,105.1857204,"Jl. Wan Abdurrahman, Sumber Agung, Kec. Kemiling, Kabupaten Pesawaran, Lampung 35156 ",,kuliner,4,1.0,True
+Goa Maria Pajar Mataram,-4.8567173,105.3149793,"48V7+8X9, Fajar Mataram, Kec. Seputih Mataram, Kabupaten Lampung Tengah, Lampung 34164 ",,alam,1,1.0,False
+Makam Pahlawan Nasional Raden Intan II & Benteng Cempaka,-5.7676585,105.6912185,"Gedungharta, Kec. Penengahan, Kabupaten Lampung Selatan, Lampung 35592 ",,budaya,2,1.0,False
+Vihara Amurwa Bhumi Graha,-5.446287,105.264053,"Jl. Ikan Bawal No.09 / 52, Pesawahan, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35221 ",,religi,3,1.0,False
+Wisata Embung Desa Purworejo,-5.3556109,105.0756919,"Jl. Bupati Suryo, Desa Purworejo, Kecamatan Negeri Katon, Pesawaran, Kec. Negeri Katon, Kabupaten Pesawaran, Lampung 35353 ",,alam,1,1.0,False
+Makam Keramat Tubagus Machdum Kuala,-5.4473832,105.3012121,"H832+2FW, T, Garuntang, Telukbetung Selatan, Bandar Lampung City, Lampung ",,budaya,2,1.0,False
+Vihara Buddha Bhaisajyaguru,-5.4644688,105.3233619,"Jl. Raya Suban No.12, Pidada, Kec. Panjang, Kota Bandar Lampung, Lampung 35241 ",,religi,3,1.0,False
+Pura Kerthi Bhuana,-5.4479416,105.3132804,"Jl. By Pass Jl. Soekarno Hatta, Way Lunik, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35244 ",,religi,3,1.0,False
+Bendungan Batu Tegi,-5.2550388,104.7808227,"PQVJ+X8P, Batu Tegi, Kec. Air Naningan, Kabupaten Tanggamus, Lampung 35679 ",,alam,1,1.0,False
+"Gereja Katolik Kristus Raja, Katedral Tanjungkarang",-5.4091325,105.2584029,"Jl. Kota Raja No.14, Gn. Sari, Kec. Tj. Karang Pusat, Kota Bandar Lampung, Lampung 35128 ",,religi,3,1.0,False
+Makam Ratu Darah Putih Kalianda,-5.718216,105.6854668,"7MJP+P58, Kuripan, Kec. Penengahan, Kabupaten Lampung Selatan, Lampung 35592 ",,budaya,2,1.0,False
+Taman Wisata Alam & Edukasi LEMBAH PELANGI Kedaung,-5.4152724,105.2037433,"Jl. Terusan Ragom Gawi III, Kedaung, Kec. Kemiling, Kota Bandar Lampung, Lampung 35158 ",,alam,1,1.0,False
+Masjid Jami' Al Yaqin,-5.4145912,105.2581246,"Gg. Masjid No.11, Tj. Karang, Engal, Kota Bandar Lampung, Lampung 35127 ",,religi,3,1.0,False
+Masjid Agung Taqwa Kota Metro,-5.11476,105.3069136,"Jl. Letjend Alamsyah Ratu Prawira Negara No.1, Imopuro, Kec. Metro Pusat, Kota Metro, Lampung 34124 ",,religi,3,1.0,False
+Makam keramat Tubagus Sangkrah,-5.4953856,105.2532063,"G733+R7W, Sukajaya Lempasing, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35236 ",,budaya,2,1.0,False
+Menara Siger Lampung,-5.8655007,105.7497282,"Jl. Lintas Sumatera, Bakauheni, Kec. Bakauheni, Kabupaten Lampung Selatan, Lampung 35592 ",,religi,3,1.0,True
+Masjid Jami' Aminatul Jannah,-5.0279451,104.448263,"XCCX+R8C, Sindang Pagar, Kec. Sumber Jaya, Kabupaten Lampung Barat, Lampung 34871 ",,religi,3,1.0,False
+Masjid Ad-Du'a,-5.3810544,105.2745261,"J79F+HRC, Jalan Sultan Agung, Puri Way Halim, Perumnas Way Halim, Way Halim, Perumnas Way Halim, Kec. Way Halim, Kota Bandar Lampung, Lampung 35132 ",,religi,3,1.0,False
+Masjid Abdurrahman Bin Auf,-5.3574917,105.2870954,"Jl. Ratu Dibalau No.68, Way Kandis, Kec. Tj. Senang, Kota Bandar Lampung, Lampung 35141 ",,religi,3,1.0,False
+Makam syeh tubagus kirana,-5.1984723,105.6783821,"RM2H+J96, Makam syeh tubagus kirana, Labuhan Ratu Danau, Kec. Way Jepara, Kabupaten Lampung Timur, Lampung 34396 ",,budaya,2,1.0,False
+GPIB Marturia Lampung,-5.4094232,105.253716,"Jl. Imam Bonjol No.1, Suka Jawa Baru, Kec. Tj. Karang Bar., Kota Bandar Lampung, Lampung 35127 ",,budaya,2,1.0,False
+Makam Keramat Syech Faqih,-5.426224,105.3040258,"H8F3+GJ6, Way Gubak, Kec. Panjang, Kota Bandar Lampung, Lampung 35244 ",,budaya,2,1.0,False

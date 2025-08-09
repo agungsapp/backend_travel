@@ -75,4 +75,13 @@ class UserResource extends Resource
             'index' => Pages\ManageUsers::route('/'),
         ];
     }
+
+    /**
+     * Hanya ambil user dengan role = 'user'
+     */
+    public static function getEloquentQuery(): Builder
+    {
+        return parent::getEloquentQuery()
+            ->where('role', 'user');
+    }
 }

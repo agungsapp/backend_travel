@@ -10,11 +10,9 @@ use Illuminate\Support\Facades\Log;
 
 class WisataSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
     public function run(): void
     {
+        // Pastikan folder gambar ada
         Storage::makeDirectory('public/wisata');
         $sourceDir = public_path('seeder/image/wisata/');
         $storageDir = storage_path('app/public/wisata/');
@@ -39,34 +37,64 @@ class WisataSeeder extends Seeder
 
         $this->command->info('File gambar wisata telah dipindahkan ke storage/wisata/');
 
-        // Data Wisata
-        $wisatas = [
-            [
-                'nama' => 'Air Terjun Ciupang',
-                'kategori_id' => 1,
-                'deskripsi' => 'deskripsi kosong atau tidak ada',
-                'alamat' => 'Sumber Jaya, Way Ratai, Pesawaran',
-                'kordinat' => json_encode(['lat' => -5.588565, 'lng' => 105.020494]),
-            ],
-            [
-                'nama' => 'WAY MIOS Gunung Batu',
-                'kategori_id' => 2,
-                'deskripsi' => 'deskripsi kosong atau tidak ada',
-                'alamat' => 'Pampangan, Gedong Tataan, Pesawaran',
-                'kordinat' => json_encode(['lat' => -5.439725, 'lng' => 105.096933]),
-            ],
-            [
-                'nama' => 'Puncak Bukit Cendana',
-                'kategori_id' => 3,
-                'deskripsi' => 'deskripsi kosong atau tidak ada',
-                'alamat' => 'Hutan, Pesawaran',
-                'kordinat' => json_encode(['lat' => -5.539993, 'lng' => 105.107705]),
-            ],
-        ];
+        // Lokasi CSV
+        $csvPath = public_path('seeder/wisata.csv');
 
-        foreach ($wisatas as $data) {
-            Wisata::create($data);
+        if (!File::exists($csvPath)) {
+            Log::error("File CSV tidak ditemukan: {$csvPath}");
+            $this->command->error("File CSV tidak ditemukan di {$csvPath}");
+            return;
         }
-        $this->command->info('Data wisata telah berhasil diisi.');
+
+        // Baca CSV pakai koma sebagai delimiter
+        if (($handle = fopen($csvPath, 'r')) !== false) {
+            $header = fgetcsv($handle, 0, ','); // baca header
+
+            if ($header === false) {
+                Log::error("Header CSV kosong atau tidak terbaca.");
+                $this->command->error("Header CSV kosong atau tidak terbaca.");
+                return;
+            }
+
+            $rowIndex = 1;
+            while (($row = fgetcsv($handle, 0, ',')) !== false) {
+                $rowIndex++;
+
+                try {
+                    // Map kolom ke variabel
+                    $namaLokasi     = $row[0] ?? null;
+                    $latitude       = $row[1] ?? null;
+                    $longitude      = $row[2] ?? null;
+                    $alamat         = $row[3] ?? null;
+                    $deskripsi      = $row[4] ?? 'deskripsi kosong atau tidak ada';
+                    $kategoriNama   = $row[5] ?? null;
+                    $kategoriId     = $row[6] ?? null;
+
+                    if (!$namaLokasi || !$latitude || !$longitude || !$kategoriId) {
+                        Log::warning("Baris {$rowIndex} dilewati karena data tidak lengkap: " . json_encode($row));
+                        continue;
+                    }
+
+                    Wisata::create([
+                        'nama'        => $namaLokasi,
+                        'kategori_id' => (int)$kategoriId,
+                        'deskripsi'   => $deskripsi ?: 'deskripsi kosong atau tidak ada',
+                        'alamat'      => $alamat ?: '-',
+                        'kordinat'    => json_encode([
+                            'lat' => (float)$latitude,
+                            'lng' => (float)$longitude,
+                        ]),
+                    ]);
+                } catch (\Exception $e) {
+                    Log::error("Gagal import baris {$rowIndex}: " . $e->getMessage());
+                }
+            }
+
+            fclose($handle);
+            $this->command->info('Data wisata dari CSV berhasil diimport.');
+        } else {
+            Log::error("Gagal membuka file CSV: {$csvPath}");
+            $this->command->error("Gagal membuka file CSV.");
+        }
     }
 }
