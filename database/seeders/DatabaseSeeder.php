@@ -25,7 +25,8 @@ class DatabaseSeeder extends Seeder
 
         $this->call([
             KategoriSeeder::class,
-            WisataSeeder::class
+            // WisataSeeder::class
+            IntegratedWisataSeeder::class,
         ]);
     }
 }

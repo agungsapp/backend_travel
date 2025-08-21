@@ -34,6 +34,10 @@ class KategoriSeeder extends Seeder
                 'nama' => 'kuliner',
                 'kategori_image' => 'kategori/pantai.jpeg'
             ],
+            [
+                'nama' => 'hotel',
+                'kategori_image' => 'kategori/hotel.png'
+            ],
         ];
 
         // Insert data ke database

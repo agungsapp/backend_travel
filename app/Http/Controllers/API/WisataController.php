@@ -141,13 +141,21 @@ class WisataController extends Controller
 
     public function getTopWisata()
     {
+        // Ambil semua data wisata secara random
         $wisata = Wisata::with('kategori')
-            ->orderBy('created_at', 'desc')
-            ->take(3)
-            ->get();
+            ->inRandomOrder()
+            ->get()
+            ->groupBy('kategori_id')
+            ->map(function ($group) {
+                // Ambil 1 data random dari tiap kategori
+                return $group->random(1)->first();
+            })
+            ->take(3) // Batasi hanya 3 kategori
+            ->values();
 
+        // Ubah path image ke URL
         $wisata->map(function ($w) {
-            $w->image = url(Storage::url($w->image)); // Mengubah path image menjadi URL yang dapat diakses
+            $w->image = url(Storage::url($w->image));
             return $w;
         });
 
@@ -157,12 +165,13 @@ class WisataController extends Controller
         ], 200);
     }
 
-    public function getWisata()
+
+    public function getWisataShuffled()
     {
-        $wisata = Wisata::with('kategori')->get();
+        $wisata = Wisata::with('kategori')->get()->shuffle();
 
         $wisata->map(function ($w) {
-            $w->image = url(Storage::url($w->image)); // Mengubah path image menjadi URL yang dapat diakses
+            $w->image = url(Storage::url($w->image));
             return $w;
         });
 
