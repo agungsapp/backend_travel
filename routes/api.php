@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\API\AuthController;
+use App\Http\Controllers\Api\UserController;
 use App\Http\Controllers\API\WisataController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -17,7 +18,10 @@ Route::post('/login', [AuthController::class, 'login']);
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('/user', [AuthController::class, 'user']);
     Route::post('/logout', [AuthController::class, 'logout']);
+    Route::put('/update-profile', [UserController::class, 'updateProfile']);
+    Route::get('/wisata/favorit', [WisataController::class, 'getWisataFavorit']);
     Route::post('/wisata/{id}/favorit', [WisataController::class, 'addWisataToFavorites']);
+    Route::delete('/wisata/{id}/favorit', [WisataController::class, 'removeWisataFromFavorites']);
     Route::get('/wisata/{id}', [WisataController::class, 'getWisataById']);
 });
 

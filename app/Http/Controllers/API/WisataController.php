@@ -13,6 +13,88 @@ use Illuminate\Support\Facades\Storage;
 class WisataController extends Controller
 {
 
+    public function getWisataFavorit()
+    {
+        // Pastikan pengguna terautentikasi
+        if (!Auth::check()) {
+            return response()->json([
+                'message' => 'Anda harus login untuk menambahkan favorit!',
+            ], 401);
+        }
+
+        try {
+            $user = Auth::user(); // Mendapatkan user yang sedang login
+            // $wisata = Favorit::where('user_id', $user->id)->get();
+            $wisata = Wisata::whereHas('favoritedBy', function ($q) use ($user) {
+                $q->where('user_id', $user->id);
+            })->with('kategori')->get();
+
+            // Ubah path image ke URL
+            $wisata->map(function ($w) {
+                $w->image = url(Storage::url($w->image));
+                return $w;
+            });
+
+            return response()->json([
+                'message' => 'Berhasil mendapatkan wisata favorit!',
+                'wisata' => $wisata,
+            ], 200);
+        } catch (\Exception $e) {
+            return response()->json([
+                'message' => 'Terjadi kesalahan saat mendapatkan wisata favorit!',
+            ], 500);
+        }
+    }
+
+    public function removeWisataFromFavorites(Request $request, $id)
+    {
+        // Validasi bahwa $id adalah angka
+        if (!is_numeric($id)) {
+            return response()->json([
+                'message' => 'ID wisata tidak valid!',
+            ], 400);
+        }
+
+        // Pastikan pengguna terautentikasi
+        if (!Auth::check()) {
+            return response()->json([
+                'message' => 'Anda harus login untuk menghapus favorit!',
+            ], 401);
+        }
+
+        try {
+            $wisata = Wisata::findOrFail($id); // Validasi wisata ada
+            $user = Auth::user(); // Mendapatkan user yang sedang login
+
+            // Cek apakah wisata ada di favorit user
+            $favorit = Favorit::where('user_id', $user->id)
+                ->where('wisata_id', $id)
+                ->first();
+
+            if (!$favorit) {
+                return response()->json([
+                    'message' => 'Wisata tidak ada di favorit!',
+                ], 400);
+            }
+
+            // Hapus wisata dari favorit
+            $favorit->delete();
+
+            return response()->json([
+                'message' => 'Berhasil menghapus wisata dari favorit!',
+                'wisata' => $wisata,
+            ], 200);
+        } catch (\Illuminate\Database\Eloquent\ModelNotFoundException $e) {
+            return response()->json([
+                'message' => 'Wisata tidak ditemukan!',
+            ], 404);
+        } catch (\Exception $e) {
+            return response()->json([
+                'message' => 'Terjadi kesalahan saat menghapus favorit!',
+            ], 500);
+        }
+    }
+
 
     public function addWisataToFavorites(Request $request, $id)
     {
