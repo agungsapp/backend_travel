@@ -256,6 +256,13 @@ class IntegratedWisataSeeder extends Seeder
         $this->command->info("⏭️ Dilewati: {$this->skippedCount}");
         $this->command->info("❌ Gagal: {$this->failedCount}");
         $this->command->info("🖼️ Gambar: " . count($this->processedImages));
+        Log::info("\n" . str_repeat('=', 50));
+        Log::info('📋 LAPORAN IMPORT DATA WISATA');
+        Log::info(str_repeat('=', 50));
+        Log::info("✅ Berhasil: {$this->successCount}");
+        Log::info("⏭️ Dilewati: {$this->skippedCount}");
+        Log::info("❌ Gagal: {$this->failedCount}");
+        Log::info("🖼️ Gambar: " . count($this->processedImages));
 
         if ($this->successCount > 0) {
             $this->command->info("\n🎉 Import selesai!");
